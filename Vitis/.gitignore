@@ -1,0 +1,6 @@
+.Xil/
+workspace/
+embeddedsw/
+*.log
+*.jou
+
